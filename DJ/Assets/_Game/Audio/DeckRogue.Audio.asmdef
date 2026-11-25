@@ -1,0 +1,19 @@
+{
+    "name": "DeckRogue.Audio",
+    "rootNamespace": "DeckRogue.Audio",
+    "references": [
+        "DeckRogue.Core",
+        "DeckRogue.Client",
+        "UnityEngine.UI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

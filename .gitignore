@@ -1,0 +1,64 @@
+# Unity
+DJ/[Ll]ibrary/
+DJ/[Tt]emp/
+DJ/[Oo]bj/
+DJ/[Bb]uild/
+DJ/[Bb]uilds/
+DJ/[Ll]ogs/
+DJ/[Uu]serSettings/
+DJ/[Mm]emoryCaptures/
+DJ/[Rr]ecordings/
+DJ/Assets/AssetStoreTools*
+DJ/*.csproj
+DJ/*.unityproj
+DJ/*.sln
+DJ/*.suo
+DJ/*.user
+DJ/*.userprefs
+DJ/*.pidb
+DJ/*.booproj
+DJ/*.svd
+DJ/*.pdb
+DJ/*.mdb
+DJ/*.opendb
+DJ/*.VC.db
+DJ/.vs/
+DJ/.gradle/
+DJ/ExportedObj/
+DJ/.consul/
+DJ/crashlytics-buildid.txt
+DJ/sysinfo.txt
+DJ/TestResults*.xml
+DJ/*.apk
+DJ/*.aab
+DJ/*.unitypackage
+DJ/*.app
+
+# Test runner output
+tests/**/bin/
+tests/**/obj/
+tools/**/bin/
+tools/**/obj/
+
+# Player builds are local packages, not source.
+# GitHub also rejects files over 100 MB (the Android APK is larger than that).
+Build/
+
+# Unity crash-recovery scenes and editor scratch
+DJ/Assets/_Recovery/
+DJ/.utmp/
+
+# Local agent config
+.cursor/
+.codex/
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vs/
+.idea/
+*.swp

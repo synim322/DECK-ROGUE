@@ -1,0 +1,17 @@
+{
+    "name": "DeckRogue.Boot",
+    "rootNamespace": "DeckRogue.Boot",
+    "references": [
+        "DeckRogue.Client",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
